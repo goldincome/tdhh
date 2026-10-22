@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="https://res.cloudinary.com/walex996/image/upload/v1668316484/vetiva-logo_ead2ei.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <title>Reservation Confirmation</title>
+    
+  </head>
+  <body style='Margin:0;padding:0;color:#000000;background-color:#eee;font-size:15px;font-family:"DM Sans", sans-serif;'>
+    <div class="content-outer" style="padding:20px;">
+      <div class="content" style="max-width:600px;margin:auto;background:#ffa200;overflow:hidden;">
+        <div class="header" style='height:100px;color:#fff;text-align:center;display:flex;background-color:#ffa200;background-image:url("https://res.cloudinary.com/walex996/image/upload/v1679580117/tdhh-bg-white-pattern_bh0koh.png");background-size:300px;background-position:center;overflow:hidden;'>
+          <a href="https://tdhh.com" class="header-content" style="color:#ffa200;width:150px;margin:auto;text-decoration:none;display:inline-block;">
+            <img src="https://res.cloudinary.com/walex996/image/upload/v1679580307/tdhh-logo-all-black_i2rtum.png" alt="TD Holiday Homes" style="border:0;width: 100%;"/>
+          </a>
+        </div>
+        <div class="body" style="padding:30px 20px;border-top-left-radius:25px;border-top-right-radius:25px;box-shadow:0px 0px 10px rgba(0,0,0,0.2);background:#fff;">
+          <div class="status-alert-side" style="margin:30px 0;display:flex;justify-content:start;">
+            <div style="width:70px;height:70px;flex-shrink:0;margin:auto 15px auto 0;">
+              <img src="https://res.cloudinary.com/walex996/image/upload/v1679652086/2048px-Check_green_icon.svg_mj4yug.png" alt="TD Holiday Homes" style="border:0;max-width: 100%; max-height: 100%;"/>
+            </div>
+            <div style="margin:auto;flex-grow:1;">
+              <div style="font-weight: bold; font-size: 20px;">
+                Your reservation
+              </div>
+              <div style="margin-top: 2px; color: #888;">
+                This apartment has now been reserved for you.
+                Please preview your booking information below.
+              </div>
+            </div>
+          </div>
+          <div class="divider" style="margin:30px 0;height:2px;background-color:#eee;"></div>
+          <div style="margin-top: 30px; text-align: center; font-weight: bold;">
+            Reservation Details
+          </div>
+          <div class="box" style="padding:20px;background:#eee;border-radius:7px;margin-top: 10px; overflow: hidden;">
+            <div style="margin: 10px 0 30px; overflow: hidden;">
+              <div style="float: left; width: 100px; max-height: 100px; margin-right: 10px;">
+                <img src="https://www.propertyguides.com/uk/media/sites/24/detached-house-in-suburbia-GR.jpg" alt="property" style="border:0;max-width: 100%; max-height: 100%;">
+              </div>
+              <div style="overflow: hidden;">
+                <div style="font-weight: bold;">
+                  3 bedroom full suite
+                </div>
+                <div style="color: #aaa; margin-top: 4px;">
+                  Unit 7, Block 3 Woolwich Dockyard Industrial Estate, Woolwich Church Street.
+                </div>
+              </div>
+            </div>
+            <div style="border-top: 2px solid #000; overflow: hidden;">
+              <table border="0" class="table" style="border-spacing:0;width:100%;">
+                <tbody>
+                  <tr>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;">
+                      Reservation Reference Number
+                    </td>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;text-align:right;">
+                      #1234567890
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;">
+                      Name
+                    </td>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;text-align:right;">
+                      Olatunde Daniels
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;">
+                      Email
+                    </td>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;text-align:right;">
+                      email@gmail.com
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;">
+                      Phone Number
+                    </td>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;text-align:right;">
+                      1234567890
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;">
+                      Check-in date
+                    </td>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;text-align:right;">
+                      Monday, 27 March, 2023
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;">
+                      Check-out date
+                    </td>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;text-align:right;">
+                      Thursday, 30 March, 2023
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;">
+                      Check-in time
+                    </td>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;text-align:right;">
+                      From 11:27 AM
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;">
+                      Check-out time
+                    </td>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;text-align:right;">
+                      Up till 04:39 PM
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;">
+                      Expected Guests
+                    </td>
+                    <td style="padding:15px 15px;border-bottom:1px solid #ddd;text-align:right;">
+                      1 adult(s), 0 child(ren), 0 pet(s)
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div style="margin-top: 20px; display: flex; justify-content: center;">
+              <a href="https://tdhh.com/account/bookings/12345" class="btn btn-orange btn-lg" style="color:#ffa200;width:max-content;padding:8px 24px;font-weight:bold;display:flex;text-decoration:none;border-radius:4px;align-items:center;justify-content:center;color:#fff;background-color:#ffa200;padding:12px 32px;">
+                View full reservation details
+              </a>
+            </div>
+          </div>
+          <div class="divider" style="margin:30px 0;height:2px;background-color:#eee;"></div>
+          <div>
+            Want to make an enquiry regarding this reservation? <a href="https://tdhh.com/account/bookings/12345" style="color:#ffa200;">Send a messaage to the property owner</a>.
+          </div>
+          <div style="margin-top: 30px;">
+            Best regards,
+            <br/>
+            TD Holiday Homes.
+          </div>
+        </div>
+        <div class="footer" style="padding:30px 20px;font-size:12px;background-color:#f8f8f8;text-align:center;">
+          TD Holiday Homes will never ask for your password, OTP or other sensitive information.
+          <br/>
+          If you notice any unusual activity, or need more assistance, please contact us at
+          <a href="mailto:hello@tdhh.com" style="color:#ffa200;">hello@tdhh.com</a>
+          <br/>
+          <br/>
+          TD Holiday Homes | {Year}
+        </div>
+        <div class="footer-bottom" style="height:20px;text-align:center;background-color:#000000;"></div>
+      </div>
+    </div>
+  </body>
+</html>
