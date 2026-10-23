@@ -1,7 +1,9 @@
 User-agent: *
 Allow: /
+
+# Debug endpoints never index
 Disallow: /_debugbar/
-Disallow: /telescope
+Disallow: /telescope/
 Disallow: /admin
 Disallow: /account
 Disallow: /partners/login
@@ -10,11 +12,11 @@ Disallow: /partners/forgot-password
 Disallow: /partners/reset-password
 Disallow: /partners/dashboard
 Disallow: /emails/
-Disallow: /property/*/reviews
 Disallow: /404
 
 # Search engine crawl delay
 Crawl-delay: 2
+
 
 # Sitemap
 Sitemap: https://tdhh.co.uk/sitemap.xml
